@@ -1,0 +1,3 @@
+[submodule "savedev"]
+	path = savedev
+	url = https://github.com/konurovnikita-svg/savedev
